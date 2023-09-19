@@ -1,2 +1,2 @@
 # pythonproject
-Stationzuil project
+Stationszuil project
